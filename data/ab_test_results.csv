@@ -1,0 +1,3 @@
+group,users,conversions,cvr_pct,avg_revenue,p_value_cvr,significant
+control,1008,610,60.52,5130.11,0.44,No
+variant,992,617,62.2,4753.51,0.44,No
